@@ -1,0 +1,1811 @@
+{
+  "metadata": {
+    "title": "Chapter 4 copy-trading metrics (anonymised)",
+    "snapshot_date": "2026-07-02",
+    "sample_definition": "First 200 lead traders surfaced under the OKX default overview ranking",
+    "privacy": "Public handles are partially masked; platform account IDs are excluded.",
+    "limitations": "The public pnlRatio series is a return-index proxy, not audited equity. Results are descriptive and do not identify liquidation, capital flows, follower losses, prediction, or causation."
+  },
+  "records": [
+    {
+      "trader_alias": "Ko***Top",
+      "followers": 598.0,
+      "displayed_roi": 9.9047,
+      "mdd_proxy": 0.6689200970058172,
+      "roi_7d": -329.5,
+      "roi_30d": 326.86,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Go***_GG",
+      "followers": 23.0,
+      "displayed_roi": 0.6617,
+      "mdd_proxy": 0.39401630518381786,
+      "roi_7d": -39.12,
+      "roi_30d": 6.2999999999999945,
+      "roi_90d": 66.17
+    },
+    {
+      "trader_alias": "El***688",
+      "followers": 22.0,
+      "displayed_roi": 1.1111,
+      "mdd_proxy": 0.6421261353460408,
+      "roi_7d": 39.169999999999995,
+      "roi_30d": 137.57,
+      "roi_90d": 163.23
+    },
+    {
+      "trader_alias": "Kn***oud",
+      "followers": 101.0,
+      "displayed_roi": 1.3272,
+      "mdd_proxy": 1.0,
+      "roi_7d": 74.94000000000001,
+      "roi_30d": 74.94000000000001,
+      "roi_90d": 74.94000000000001
+    },
+    {
+      "trader_alias": "0x***eth",
+      "followers": 2.0,
+      "displayed_roi": 0.2414,
+      "mdd_proxy": 0.16242414689888876,
+      "roi_7d": -0.940000000000002,
+      "roi_30d": 18.569999999999997,
+      "roi_90d": 29.01
+    },
+    {
+      "trader_alias": "pi***uzi",
+      "followers": 95.0,
+      "displayed_roi": 0.2318,
+      "mdd_proxy": 0.4616613418530352,
+      "roi_7d": 0.9399999999999853,
+      "roi_30d": 46.999999999999986,
+      "roi_90d": 33.36999999999999
+    },
+    {
+      "trader_alias": "Ha***ter",
+      "followers": 47.0,
+      "displayed_roi": 0.3183,
+      "mdd_proxy": 0.12215768660405325,
+      "roi_7d": -0.33999999999999586,
+      "roi_30d": 15.629999999999999,
+      "roi_90d": 31.830000000000002
+    },
+    {
+      "trader_alias": "Pr***760",
+      "followers": 32.0,
+      "displayed_roi": 0.2332,
+      "mdd_proxy": 0.0627395434094317,
+      "roi_7d": 7.109999999999999,
+      "roi_30d": 21.75,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ma***666",
+      "followers": 193.0,
+      "displayed_roi": 0.8649,
+      "mdd_proxy": 0.4796362581019638,
+      "roi_7d": -10.309999999999997,
+      "roi_30d": 29.910000000000004,
+      "roi_90d": 91.14
+    },
+    {
+      "trader_alias": "37***ade",
+      "followers": 108.0,
+      "displayed_roi": 0.0854,
+      "mdd_proxy": 0.16802084930246824,
+      "roi_7d": -17.68,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Mu***ang",
+      "followers": 44.0,
+      "displayed_roi": 0.2312,
+      "mdd_proxy": 0.1167084145096949,
+      "roi_7d": 2.090000000000003,
+      "roi_30d": 12.040000000000001,
+      "roi_90d": 25.05
+    },
+    {
+      "trader_alias": "Gl***nia",
+      "followers": 50.0,
+      "displayed_roi": 0.1884,
+      "mdd_proxy": 0.2013185083144741,
+      "roi_7d": -0.89,
+      "roi_30d": 6.16,
+      "roi_90d": 18.84
+    },
+    {
+      "trader_alias": "Ee***eex",
+      "followers": 30.0,
+      "displayed_roi": 0.4529,
+      "mdd_proxy": 0.2915986949429039,
+      "roi_7d": -27.939999999999987,
+      "roi_30d": 20.310000000000006,
+      "roi_90d": 45.290000000000006
+    },
+    {
+      "trader_alias": "Q***🌞",
+      "followers": 259.0,
+      "displayed_roi": 1.5124,
+      "mdd_proxy": 0.3459327297958105,
+      "roi_7d": -36.3,
+      "roi_30d": 94.82000000000002,
+      "roi_90d": 234.69000000000003
+    },
+    {
+      "trader_alias": "k***s",
+      "followers": 21.0,
+      "displayed_roi": 0.3673,
+      "mdd_proxy": 0.8398149896167643,
+      "roi_7d": -28.90999999999999,
+      "roi_30d": 42.589999999999996,
+      "roi_90d": 69.44000000000001
+    },
+    {
+      "trader_alias": "As***in.",
+      "followers": 94.0,
+      "displayed_roi": 0.1565,
+      "mdd_proxy": 0.39400385294589824,
+      "roi_7d": 7.690000000000019,
+      "roi_30d": 11.460000000000004,
+      "roi_90d": 29.13000000000001
+    },
+    {
+      "trader_alias": "D***T",
+      "followers": 2.0,
+      "displayed_roi": 0.2188,
+      "mdd_proxy": 0.15556430187936635,
+      "roi_7d": 7.5600000000000005,
+      "roi_30d": 21.08,
+      "roi_90d": 21.88
+    },
+    {
+      "trader_alias": "hu***788",
+      "followers": 1.0,
+      "displayed_roi": 0.0552,
+      "mdd_proxy": 0.05872259294566242,
+      "roi_7d": -3.5900000000000003,
+      "roi_30d": 1.4,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "St***rst",
+      "followers": 581.0,
+      "displayed_roi": 18.6344,
+      "mdd_proxy": 0.7362772155780436,
+      "roi_7d": -951.4099999999999,
+      "roi_30d": 1386.5400000000009,
+      "roi_90d": 5831.76
+    },
+    {
+      "trader_alias": "To***ant",
+      "followers": 1158.0,
+      "displayed_roi": 0.3385,
+      "mdd_proxy": 0.24747433264887064,
+      "roi_7d": 1.0600000000000165,
+      "roi_30d": 6.709999999999994,
+      "roi_90d": 33.85
+    },
+    {
+      "trader_alias": "YE***INA",
+      "followers": 92.0,
+      "displayed_roi": 0.7358,
+      "mdd_proxy": 0.4144006828435557,
+      "roi_7d": 52.18999999999999,
+      "roi_30d": 13.49999999999999,
+      "roi_90d": 73.58
+    },
+    {
+      "trader_alias": "ga***xy*",
+      "followers": 273.0,
+      "displayed_roi": 2.0706,
+      "mdd_proxy": 1.0,
+      "roi_7d": -826.1100000000002,
+      "roi_30d": 1688.66,
+      "roi_90d": 1897.0300000000002
+    },
+    {
+      "trader_alias": "Pl***tra",
+      "followers": 252.0,
+      "displayed_roi": 0.1104,
+      "mdd_proxy": 0.23824080465437336,
+      "roi_7d": 0.11000000000000176,
+      "roi_30d": 7.820000000000002,
+      "roi_90d": 12.330000000000002
+    },
+    {
+      "trader_alias": "bt***ing",
+      "followers": 7.0,
+      "displayed_roi": 0.2666,
+      "mdd_proxy": 0.4568106312292358,
+      "roi_7d": -14.349999999999996,
+      "roi_30d": 31.47000000000002,
+      "roi_90d": 70.41000000000001
+    },
+    {
+      "trader_alias": "Mi***13",
+      "followers": 111.0,
+      "displayed_roi": 0.4365,
+      "mdd_proxy": 0.4467708107326246,
+      "roi_7d": 6.5199999999999925,
+      "roi_30d": -23.53000000000001,
+      "roi_90d": 73.93999999999998
+    },
+    {
+      "trader_alias": "Li***ixi",
+      "followers": 67.0,
+      "displayed_roi": 0.4176,
+      "mdd_proxy": 0.2054058488167015,
+      "roi_7d": -15.59999999999999,
+      "roi_30d": 25.039999999999996,
+      "roi_90d": 41.76
+    },
+    {
+      "trader_alias": "1***1",
+      "followers": 197.0,
+      "displayed_roi": 0.5252,
+      "mdd_proxy": 0.8534418256640479,
+      "roi_7d": -12.079999999999998,
+      "roi_30d": 12.840000000000002,
+      "roi_90d": 52.53
+    },
+    {
+      "trader_alias": "好望***999",
+      "followers": 70.0,
+      "displayed_roi": 1.0097,
+      "mdd_proxy": 0.743893928820656,
+      "roi_7d": 41.90000000000003,
+      "roi_30d": 183.44,
+      "roi_90d": 167.90000000000003
+    },
+    {
+      "trader_alias": "Gr***ffe",
+      "followers": 0.0,
+      "displayed_roi": 0.5593,
+      "mdd_proxy": 0.8488533169154994,
+      "roi_7d": 6.370000000000001,
+      "roi_30d": 41.339999999999996,
+      "roi_90d": 55.93
+    },
+    {
+      "trader_alias": "Mu***Fox",
+      "followers": 26.0,
+      "displayed_roi": 0.1801,
+      "mdd_proxy": 0.5031921067904817,
+      "roi_7d": 5.059999999999998,
+      "roi_30d": -12.210000000000004,
+      "roi_90d": 18.009999999999998
+    },
+    {
+      "trader_alias": "HW***100",
+      "followers": 0.0,
+      "displayed_roi": 0.1122,
+      "mdd_proxy": 0.4370822990261601,
+      "roi_7d": -0.20999999999999908,
+      "roi_30d": 4.660000000000003,
+      "roi_90d": 11.210000000000003
+    },
+    {
+      "trader_alias": "xi***zao",
+      "followers": 18.0,
+      "displayed_roi": 0.3963,
+      "mdd_proxy": 0.35461981217812794,
+      "roi_7d": -3.079999999999994,
+      "roi_30d": 17.410000000000014,
+      "roi_90d": 89.92999999999999
+    },
+    {
+      "trader_alias": "[n***le]",
+      "followers": 0.0,
+      "displayed_roi": 0.3955,
+      "mdd_proxy": 0.1321921065145032,
+      "roi_7d": 5.24,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Zs***++",
+      "followers": 0.0,
+      "displayed_roi": 0.3688,
+      "mdd_proxy": 0.5632827693504472,
+      "roi_7d": -20.940000000000005,
+      "roi_30d": 60.46,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ge***iii",
+      "followers": 5.0,
+      "displayed_roi": 0.1132,
+      "mdd_proxy": 0.040612648221343896,
+      "roi_7d": 1.8000000000000003,
+      "roi_30d": 7.8100000000000005,
+      "roi_90d": 11.41
+    },
+    {
+      "trader_alias": "No***ana",
+      "followers": 1.0,
+      "displayed_roi": 0.1719,
+      "mdd_proxy": 0.1909674275038584,
+      "roi_7d": -3.0,
+      "roi_30d": 5.67,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "De***boo",
+      "followers": 0.0,
+      "displayed_roi": 0.1109,
+      "mdd_proxy": 0.07175712971481148,
+      "roi_7d": -0.23999999999999994,
+      "roi_30d": 4.130000000000001,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ru***ose",
+      "followers": 1.0,
+      "displayed_roi": 0.0636,
+      "mdd_proxy": 0.056842451125349046,
+      "roi_7d": -5.9799999999999995,
+      "roi_30d": 6.15,
+      "roi_90d": 6.99
+    },
+    {
+      "trader_alias": "Ha***uto",
+      "followers": 0.0,
+      "displayed_roi": 0.1716,
+      "mdd_proxy": 0.8522185551888523,
+      "roi_7d": 6.35,
+      "roi_30d": 5.689999999999995,
+      "roi_90d": 17.159999999999997
+    },
+    {
+      "trader_alias": "El***nts",
+      "followers": 2.0,
+      "displayed_roi": 0.0693,
+      "mdd_proxy": 0.03766440813072943,
+      "roi_7d": 2.7899999999999996,
+      "roi_30d": 2.52,
+      "roi_90d": 9.26
+    },
+    {
+      "trader_alias": "Dr***nna",
+      "followers": 32.0,
+      "displayed_roi": 0.1515,
+      "mdd_proxy": 0.5693606163207222,
+      "roi_7d": 21.6,
+      "roi_30d": -15.36,
+      "roi_90d": 15.150000000000002
+    },
+    {
+      "trader_alias": "xi***999",
+      "followers": 25.0,
+      "displayed_roi": 0.1059,
+      "mdd_proxy": 0.4231343870409688,
+      "roi_7d": 3.62,
+      "roi_30d": 0.1700000000000007,
+      "roi_90d": 10.82
+    },
+    {
+      "trader_alias": "bb***888",
+      "followers": 230.0,
+      "displayed_roi": 0.3455,
+      "mdd_proxy": 0.637893912703073,
+      "roi_7d": 6.370000000000001,
+      "roi_30d": 23.71,
+      "roi_90d": 34.550000000000004
+    },
+    {
+      "trader_alias": "ch***ng2",
+      "followers": 159.0,
+      "displayed_roi": 0.2162,
+      "mdd_proxy": 0.4868719611021069,
+      "roi_7d": -13.590000000000002,
+      "roi_30d": 21.62,
+      "roi_90d": 21.62
+    },
+    {
+      "trader_alias": "Co***gon",
+      "followers": 0.0,
+      "displayed_roi": 0.068,
+      "mdd_proxy": 0.22857676852630598,
+      "roi_7d": 3.520000000000001,
+      "roi_30d": 1.2700000000000002,
+      "roi_90d": 6.8100000000000005
+    },
+    {
+      "trader_alias": "小***j",
+      "followers": 244.0,
+      "displayed_roi": 0.1054,
+      "mdd_proxy": 0.2261063592413537,
+      "roi_7d": -5.320000000000002,
+      "roi_30d": 11.080000000000002,
+      "roi_90d": 10.549999999999999
+    },
+    {
+      "trader_alias": "Tr***tes",
+      "followers": 19.0,
+      "displayed_roi": 0.1263,
+      "mdd_proxy": 0.2093196644920784,
+      "roi_7d": -6.9100000000000055,
+      "roi_30d": 15.069999999999995,
+      "roi_90d": 20.87
+    },
+    {
+      "trader_alias": "Ju***law",
+      "followers": 500.0,
+      "displayed_roi": 0.0408,
+      "mdd_proxy": 0.022967050803440994,
+      "roi_7d": -2.100000000000002,
+      "roi_30d": 1.9799999999999984,
+      "roi_90d": 4.08
+    },
+    {
+      "trader_alias": "li***luo",
+      "followers": 0.0,
+      "displayed_roi": 0.2559,
+      "mdd_proxy": 0.46308595009349407,
+      "roi_7d": 36.09,
+      "roi_30d": 24.349999999999998,
+      "roi_90d": 25.590000000000003
+    },
+    {
+      "trader_alias": "Be***Max",
+      "followers": 169.0,
+      "displayed_roi": 0.0393,
+      "mdd_proxy": 0.18486037387491341,
+      "roi_7d": 1.0499999999999954,
+      "roi_30d": 2.9999999999999973,
+      "roi_90d": 4.429999999999995
+    },
+    {
+      "trader_alias": "Wh***ims",
+      "followers": 24.0,
+      "displayed_roi": 0.4008,
+      "mdd_proxy": 0.357,
+      "roi_7d": 0.0,
+      "roi_30d": 16.34,
+      "roi_90d": 40.08
+    },
+    {
+      "trader_alias": "Ex***mel",
+      "followers": 337.0,
+      "displayed_roi": 0.4371,
+      "mdd_proxy": 1.0,
+      "roi_7d": 196.67000000000013,
+      "roi_30d": 503.27000000000004,
+      "roi_90d": 596.1
+    },
+    {
+      "trader_alias": "Pe***lXX",
+      "followers": 0.0,
+      "displayed_roi": 0.1825,
+      "mdd_proxy": 0.7905,
+      "roi_7d": -12.659999999999998,
+      "roi_30d": 15.550000000000002,
+      "roi_90d": 18.240000000000002
+    },
+    {
+      "trader_alias": "CC***ain",
+      "followers": 5.0,
+      "displayed_roi": -0.0014,
+      "mdd_proxy": 0.15828173374613008,
+      "roi_7d": 0.3500000000000003,
+      "roi_30d": -0.789999999999999,
+      "roi_90d": -0.20000000000000018
+    },
+    {
+      "trader_alias": "Xi***Lee",
+      "followers": 432.0,
+      "displayed_roi": 0.0101,
+      "mdd_proxy": 0.10207245430809399,
+      "roi_7d": 6.9,
+      "roi_30d": 1.4400000000000024,
+      "roi_90d": 1.4400000000000024
+    },
+    {
+      "trader_alias": "Me***ang",
+      "followers": 2.0,
+      "displayed_roi": -0.0856,
+      "mdd_proxy": 0.33190854870775355,
+      "roi_7d": 4.699999999999998,
+      "roi_30d": -20.200000000000003,
+      "roi_90d": -8.549999999999999
+    },
+    {
+      "trader_alias": "ال***_94",
+      "followers": 1.0,
+      "displayed_roi": -0.0408,
+      "mdd_proxy": 0.16487088983838008,
+      "roi_7d": 3.599999999999999,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "s4***50",
+      "followers": 8.0,
+      "displayed_roi": 0.5405,
+      "mdd_proxy": 0.7635163365922955,
+      "roi_7d": -14.510000000000002,
+      "roi_30d": 38.96999999999999,
+      "roi_90d": 65.8
+    },
+    {
+      "trader_alias": "Je***y杰睿",
+      "followers": 24.0,
+      "displayed_roi": 0.0492,
+      "mdd_proxy": 0.1306102362204725,
+      "roi_7d": -10.350000000000001,
+      "roi_30d": -0.11000000000000003,
+      "roi_90d": 4.92
+    },
+    {
+      "trader_alias": "稳***钱",
+      "followers": 7.0,
+      "displayed_roi": -0.0451,
+      "mdd_proxy": 0.29842140088855285,
+      "roi_7d": 5.999999999999997,
+      "roi_30d": -3.4700000000000006,
+      "roi_90d": -4.51
+    },
+    {
+      "trader_alias": "su***ing",
+      "followers": 0.0,
+      "displayed_roi": 0.0725,
+      "mdd_proxy": 0.6431924882629108,
+      "roi_7d": 1.529999999999998,
+      "roi_30d": 5.4900000000000055,
+      "roi_90d": 7.250000000000001
+    },
+    {
+      "trader_alias": "Re***ion",
+      "followers": 58.0,
+      "displayed_roi": -0.1066,
+      "mdd_proxy": 0.46838342084683277,
+      "roi_7d": 9.0,
+      "roi_30d": -15.53,
+      "roi_90d": -12.379999999999999
+    },
+    {
+      "trader_alias": "Sh***rog",
+      "followers": 406.0,
+      "displayed_roi": 0.1723,
+      "mdd_proxy": 0.18507157464212676,
+      "roi_7d": -7.380000000000009,
+      "roi_30d": 43.19,
+      "roi_90d": 33.01
+    },
+    {
+      "trader_alias": "Ad***rog",
+      "followers": 460.0,
+      "displayed_roi": 0.9066,
+      "mdd_proxy": 0.19689767325494117,
+      "roi_7d": 27.449999999999996,
+      "roi_30d": 85.0,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ba***Fox",
+      "followers": 48.0,
+      "displayed_roi": -0.2249,
+      "mdd_proxy": 0.5669659419752171,
+      "roi_7d": 10.83,
+      "roi_30d": -28.28,
+      "roi_90d": -26.43
+    },
+    {
+      "trader_alias": "Na***ing",
+      "followers": 0.0,
+      "displayed_roi": 0.0157,
+      "mdd_proxy": 0.3014,
+      "roi_7d": -1.0099999999999998,
+      "roi_30d": 1.6200000000000048,
+      "roi_90d": 1.5700000000000047
+    },
+    {
+      "trader_alias": "Am***ags",
+      "followers": 266.0,
+      "displayed_roi": 0.6389,
+      "mdd_proxy": 0.3000565078169147,
+      "roi_7d": 11.970000000000002,
+      "roi_30d": 54.85,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "ZC***535",
+      "followers": 4.0,
+      "displayed_roi": -0.1255,
+      "mdd_proxy": 0.6449530516431925,
+      "roi_7d": 6.490000000000007,
+      "roi_30d": -8.609999999999996,
+      "roi_90d": -12.549999999999994
+    },
+    {
+      "trader_alias": "Tr***eer",
+      "followers": 0.0,
+      "displayed_roi": 0.5685,
+      "mdd_proxy": 0.25262159193049044,
+      "roi_7d": -44.28,
+      "roi_30d": -12.75,
+      "roi_90d": 59.089999999999996
+    },
+    {
+      "trader_alias": "无敌***鲤鱼",
+      "followers": 1.0,
+      "displayed_roi": -0.0006,
+      "mdd_proxy": 0.0023652311027889603,
+      "roi_7d": -0.010000000000000113,
+      "roi_30d": -0.07000000000000009,
+      "roi_90d": -0.059999999999999984
+    },
+    {
+      "trader_alias": "TO***ion",
+      "followers": 0.0,
+      "displayed_roi": 0.0283,
+      "mdd_proxy": 0.060140754958413374,
+      "roi_7d": -5.869999999999999,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "bs***x66",
+      "followers": 0.0,
+      "displayed_roi": 0.0375,
+      "mdd_proxy": 0.020124580737901417,
+      "roi_7d": -1.09,
+      "roi_30d": 2.81,
+      "roi_90d": 4.25
+    },
+    {
+      "trader_alias": "Ma***982",
+      "followers": 2.0,
+      "displayed_roi": 0.0411,
+      "mdd_proxy": 0.05881774368053503,
+      "roi_7d": -0.10000000000000009,
+      "roi_30d": 2.529999999999999,
+      "roi_90d": 4.109999999999999
+    },
+    {
+      "trader_alias": "St***Con",
+      "followers": 1.0,
+      "displayed_roi": 0.0521,
+      "mdd_proxy": 0.18014319809069218,
+      "roi_7d": -9.3,
+      "roi_30d": 2.0600000000000005,
+      "roi_90d": 5.410000000000001
+    },
+    {
+      "trader_alias": "Sh***it.",
+      "followers": 2.0,
+      "displayed_roi": -0.0124,
+      "mdd_proxy": 0.541116848345764,
+      "roi_7d": -10.99,
+      "roi_30d": 10.620000000000001,
+      "roi_90d": -1.2299999999999978
+    },
+    {
+      "trader_alias": "Fi***ack",
+      "followers": 0.0,
+      "displayed_roi": 0.066,
+      "mdd_proxy": 0.015955875110804787,
+      "roi_7d": 6.6000000000000005,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ru***ard",
+      "followers": 191.0,
+      "displayed_roi": 0.1981,
+      "mdd_proxy": 0.3381463146314632,
+      "roi_7d": 4.369999999999999,
+      "roi_30d": 16.13,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "1S***er1",
+      "followers": 0.0,
+      "displayed_roi": -0.0101,
+      "mdd_proxy": 0.8062774890043982,
+      "roi_7d": -7.199999999999996,
+      "roi_30d": -0.14999999999999458,
+      "roi_90d": -1.0099999999999998
+    },
+    {
+      "trader_alias": "Us***lap",
+      "followers": 0.0,
+      "displayed_roi": 0.0036,
+      "mdd_proxy": 0.0426456071076011,
+      "roi_7d": 3.18,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "18***315",
+      "followers": 0.0,
+      "displayed_roi": -0.018,
+      "mdd_proxy": 0.027313532613885933,
+      "roi_7d": 0.11999999999999997,
+      "roi_30d": 0.5700000000000001,
+      "roi_90d": -1.8099999999999998
+    },
+    {
+      "trader_alias": "BK***01",
+      "followers": 0.0,
+      "displayed_roi": -0.0034,
+      "mdd_proxy": 0.054503786369071425,
+      "roi_7d": 1.6200000000000006,
+      "roi_30d": -0.050000000000000044,
+      "roi_90d": -0.41999999999999815
+    },
+    {
+      "trader_alias": "Ti***Yin",
+      "followers": 1.0,
+      "displayed_roi": -0.0113,
+      "mdd_proxy": 0.021571956456606475,
+      "roi_7d": 0.75,
+      "roi_30d": -0.61,
+      "roi_90d": -1.17
+    },
+    {
+      "trader_alias": "BT***ael",
+      "followers": 65.0,
+      "displayed_roi": -0.079,
+      "mdd_proxy": 0.11203566121842505,
+      "roi_7d": 2.4499999999999993,
+      "roi_30d": -3.6700000000000004,
+      "roi_90d": -7.9
+    },
+    {
+      "trader_alias": "In***Fox",
+      "followers": 0.0,
+      "displayed_roi": 0.0831,
+      "mdd_proxy": 0.1888241280414469,
+      "roi_7d": 0.0,
+      "roi_30d": -0.5299999999999999,
+      "roi_90d": 8.31
+    },
+    {
+      "trader_alias": "Di***ken",
+      "followers": 0.0,
+      "displayed_roi": -0.0033,
+      "mdd_proxy": 0.031331071642386736,
+      "roi_7d": 0.11999999999999997,
+      "roi_30d": -0.22999999999999998,
+      "roi_90d": -0.33000000000000007
+    },
+    {
+      "trader_alias": "id***nd",
+      "followers": 1.0,
+      "displayed_roi": -0.0303,
+      "mdd_proxy": 0.2576286764705883,
+      "roi_7d": 12.0,
+      "roi_30d": 6.529999999999999,
+      "roi_90d": -3.1599999999999997
+    },
+    {
+      "trader_alias": "Pr***sil",
+      "followers": 2.0,
+      "displayed_roi": 0.0483,
+      "mdd_proxy": 0.49429999999999996,
+      "roi_7d": 1.4500000000000013,
+      "roi_30d": -1.4900000000000024,
+      "roi_90d": 4.820000000000002
+    },
+    {
+      "trader_alias": "大王***mos",
+      "followers": 1.0,
+      "displayed_roi": -0.2864,
+      "mdd_proxy": 0.5789759855006796,
+      "roi_7d": 0.6800000000000028,
+      "roi_30d": 1.26,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "ka***in",
+      "followers": 49.0,
+      "displayed_roi": 0.1791,
+      "mdd_proxy": 0.7069508009153318,
+      "roi_7d": -20.41,
+      "roi_30d": 15.910000000000002,
+      "roi_90d": 17.910000000000004
+    },
+    {
+      "trader_alias": "孤舟***世纪",
+      "followers": 104.0,
+      "displayed_roi": -0.0904,
+      "mdd_proxy": 0.18542074363992173,
+      "roi_7d": 1.6799999999999926,
+      "roi_30d": -15.129999999999999,
+      "roi_90d": -12.61
+    },
+    {
+      "trader_alias": "Gl***tle",
+      "followers": 0.0,
+      "displayed_roi": -0.0062,
+      "mdd_proxy": 0.11374641763020059,
+      "roi_7d": 2.9399999999999995,
+      "roi_30d": -0.20000000000000018,
+      "roi_90d": -0.7300000000000001
+    },
+    {
+      "trader_alias": "Fi***ena",
+      "followers": 2.0,
+      "displayed_roi": 0.3863,
+      "mdd_proxy": 0.7235430354019946,
+      "roi_7d": -46.510000000000005,
+      "roi_30d": 57.75999999999999,
+      "roi_90d": 94.80999999999999
+    },
+    {
+      "trader_alias": "Ru***ie",
+      "followers": 0.0,
+      "displayed_roi": -0.0553,
+      "mdd_proxy": 0.1931276160809891,
+      "roi_7d": 8.809999999999999,
+      "roi_30d": -0.6000000000000005,
+      "roi_90d": -5.53
+    },
+    {
+      "trader_alias": "Sc***025",
+      "followers": 0.0,
+      "displayed_roi": -0.0746,
+      "mdd_proxy": 0.13494282083862752,
+      "roi_7d": 0.33000000000000007,
+      "roi_30d": -4.029999999999999,
+      "roi_90d": -7.46
+    },
+    {
+      "trader_alias": "Cr***her",
+      "followers": 2.0,
+      "displayed_roi": 0.0203,
+      "mdd_proxy": 0.1095119812974868,
+      "roi_7d": 3.570000000000001,
+      "roi_30d": 0.40999999999999925,
+      "roi_90d": 2.030000000000004
+    },
+    {
+      "trader_alias": "亿***贫",
+      "followers": 2.0,
+      "displayed_roi": 0.0351,
+      "mdd_proxy": 0.19626301526173162,
+      "roi_7d": 2.679999999999999,
+      "roi_30d": 3.6199999999999957,
+      "roi_90d": 3.519999999999995
+    },
+    {
+      "trader_alias": "Tr***ick",
+      "followers": 0.0,
+      "displayed_roi": -0.0154,
+      "mdd_proxy": 0.22193952441530482,
+      "roi_7d": 18.95,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Pu***row",
+      "followers": 0.0,
+      "displayed_roi": -0.086,
+      "mdd_proxy": 0.20143249607535324,
+      "roi_7d": 3.0200000000000005,
+      "roi_30d": 0.0899999999999998,
+      "roi_90d": -8.690000000000001
+    },
+    {
+      "trader_alias": "Mi*** S",
+      "followers": 0.0,
+      "displayed_roi": -0.0287,
+      "mdd_proxy": 0.2990124181089273,
+      "roi_7d": 1.31,
+      "roi_30d": -3.15,
+      "roi_90d": -2.879999999999999
+    },
+    {
+      "trader_alias": "An***ajr",
+      "followers": 0.0,
+      "displayed_roi": -0.0311,
+      "mdd_proxy": 0.2122445025670832,
+      "roi_7d": 7.62,
+      "roi_30d": -6.949999999999999,
+      "roi_90d": -3.8
+    },
+    {
+      "trader_alias": "Li***ang",
+      "followers": 0.0,
+      "displayed_roi": -0.1251,
+      "mdd_proxy": 0.32709378618294094,
+      "roi_7d": 3.6500000000000004,
+      "roi_30d": -6.259999999999999,
+      "roi_90d": -12.509999999999998
+    },
+    {
+      "trader_alias": "mi***.ru",
+      "followers": 19.0,
+      "displayed_roi": 0.2329,
+      "mdd_proxy": 0.07508161044613719,
+      "roi_7d": 0.0,
+      "roi_30d": 16.42999999999999,
+      "roi_90d": 23.28999999999999
+    },
+    {
+      "trader_alias": "Ti***ong",
+      "followers": 36.0,
+      "displayed_roi": -0.1863,
+      "mdd_proxy": 0.4707279128797184,
+      "roi_7d": 13.820000000000002,
+      "roi_30d": -16.400000000000002,
+      "roi_90d": -19.56
+    },
+    {
+      "trader_alias": "Ho***277",
+      "followers": 0.0,
+      "displayed_roi": 0.1514,
+      "mdd_proxy": 0.34450286431766464,
+      "roi_7d": 1.2799999999999978,
+      "roi_30d": -6.270000000000003,
+      "roi_90d": 20.32
+    },
+    {
+      "trader_alias": "zu***632",
+      "followers": 0.0,
+      "displayed_roi": -0.2438,
+      "mdd_proxy": 0.4760427124212831,
+      "roi_7d": 5.259999999999998,
+      "roi_30d": -6.309999999999999,
+      "roi_90d": -24.380000000000003
+    },
+    {
+      "trader_alias": "sp***ror",
+      "followers": 25.0,
+      "displayed_roi": -0.0679,
+      "mdd_proxy": 0.8001083197933592,
+      "roi_7d": 2.5500000000000025,
+      "roi_30d": -6.3,
+      "roi_90d": -6.789999999999996
+    },
+    {
+      "trader_alias": "Al***ria",
+      "followers": 9.0,
+      "displayed_roi": -0.1074,
+      "mdd_proxy": 0.18577012044348737,
+      "roi_7d": 0.930000000000003,
+      "roi_30d": 4.150000000000004,
+      "roi_90d": -11.399999999999999
+    },
+    {
+      "trader_alias": "0x***888",
+      "followers": 50.0,
+      "displayed_roi": 0.035,
+      "mdd_proxy": 0.4459810577487218,
+      "roi_7d": 9.110000000000001,
+      "roi_30d": 5.34,
+      "roi_90d": 3.4999999999999973
+    },
+    {
+      "trader_alias": "da***com",
+      "followers": 3.0,
+      "displayed_roi": -0.0492,
+      "mdd_proxy": 0.4733265999449086,
+      "roi_7d": 9.490000000000004,
+      "roi_30d": -3.2200000000000006,
+      "roi_90d": -4.919999999999996
+    },
+    {
+      "trader_alias": "Mu***ame",
+      "followers": 5.0,
+      "displayed_roi": -0.009,
+      "mdd_proxy": 0.024970155192996536,
+      "roi_7d": 0.6599999999999998,
+      "roi_30d": -1.0100000000000002,
+      "roi_90d": -0.91
+    },
+    {
+      "trader_alias": "At***her",
+      "followers": 154.0,
+      "displayed_roi": -0.0998,
+      "mdd_proxy": 0.36616661949240503,
+      "roi_7d": 3.7099999999999995,
+      "roi_30d": -9.9,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "ca***u08",
+      "followers": 0.0,
+      "displayed_roi": -0.4216,
+      "mdd_proxy": 0.49184379634206626,
+      "roi_7d": 6.140000000000001,
+      "roi_30d": -6.179999999999996,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "k***1",
+      "followers": 20.0,
+      "displayed_roi": -0.3169,
+      "mdd_proxy": 0.5278791901759045,
+      "roi_7d": -1.4600000000000002,
+      "roi_30d": -14.980000000000002,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ai***ang",
+      "followers": 5.0,
+      "displayed_roi": 0.0078,
+      "mdd_proxy": 0.6044332165267704,
+      "roi_7d": 8.53,
+      "roi_30d": 3.1799999999999997,
+      "roi_90d": 0.7799999999999974
+    },
+    {
+      "trader_alias": "人生***和结果",
+      "followers": 50.0,
+      "displayed_roi": -0.1147,
+      "mdd_proxy": 0.4128522886268238,
+      "roi_7d": 11.27,
+      "roi_30d": -12.879999999999999,
+      "roi_90d": -11.469999999999999
+    },
+    {
+      "trader_alias": "Je***one",
+      "followers": 0.0,
+      "displayed_roi": -0.1985,
+      "mdd_proxy": 0.6852487135506004,
+      "roi_7d": 10.84,
+      "roi_30d": -14.189999999999998,
+      "roi_90d": -19.85
+    },
+    {
+      "trader_alias": "St***gga",
+      "followers": 0.0,
+      "displayed_roi": 0.0004,
+      "mdd_proxy": 0.02678660669665161,
+      "roi_7d": 0.0,
+      "roi_30d": 0.03999999999999997,
+      "roi_90d": 0.03999999999999997
+    },
+    {
+      "trader_alias": "牛T***and",
+      "followers": 2.0,
+      "displayed_roi": 0.0001,
+      "mdd_proxy": 0.39311033449825267,
+      "roi_7d": 0.0,
+      "roi_30d": 0.009999999999998899,
+      "roi_90d": 0.009999999999998899
+    },
+    {
+      "trader_alias": "Ke***pon",
+      "followers": 3.0,
+      "displayed_roi": -0.0637,
+      "mdd_proxy": 0.34787234042553183,
+      "roi_7d": 2.6499999999999995,
+      "roi_30d": -3.83,
+      "roi_90d": -6.369999999999999
+    },
+    {
+      "trader_alias": "Le***ant",
+      "followers": 1.0,
+      "displayed_roi": 0.0115,
+      "mdd_proxy": 0.15870000000000006,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 1.1800000000000002
+    },
+    {
+      "trader_alias": "Go***bro",
+      "followers": 0.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": 0.0,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.0
+    },
+    {
+      "trader_alias": "Li***-01",
+      "followers": 0.0,
+      "displayed_roi": -0.0222,
+      "mdd_proxy": 0.10472806238278558,
+      "roi_7d": 0.15999999999999998,
+      "roi_30d": 4.01,
+      "roi_90d": -2.23
+    },
+    {
+      "trader_alias": "Ku***lan",
+      "followers": 34.0,
+      "displayed_roi": 0.0084,
+      "mdd_proxy": 0.7125218833502257,
+      "roi_7d": 4.23,
+      "roi_30d": -1.5799999999999925,
+      "roi_90d": 0.8400000000000074
+    },
+    {
+      "trader_alias": "BT***ler",
+      "followers": 72.0,
+      "displayed_roi": -0.3878,
+      "mdd_proxy": 0.5057188850292299,
+      "roi_7d": 2.880000000000005,
+      "roi_30d": -41.15,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "M***h",
+      "followers": 319.0,
+      "displayed_roi": -0.0288,
+      "mdd_proxy": 0.03658899946367923,
+      "roi_7d": 0.550000000000006,
+      "roi_30d": -1.9199999999999995,
+      "roi_90d": -3.9099999999999913
+    },
+    {
+      "trader_alias": "Ja***958",
+      "followers": 0.0,
+      "displayed_roi": -0.3554,
+      "mdd_proxy": 0.5925546765937646,
+      "roi_7d": -0.8199999999999985,
+      "roi_30d": -17.34,
+      "roi_90d": -35.54
+    },
+    {
+      "trader_alias": "St***tor",
+      "followers": 0.0,
+      "displayed_roi": -0.0077,
+      "mdd_proxy": 0.013993003498250776,
+      "roi_7d": 0.49,
+      "roi_30d": -0.36999999999999994,
+      "roi_90d": -0.7799999999999999
+    },
+    {
+      "trader_alias": "Ho***ink",
+      "followers": 141.0,
+      "displayed_roi": 0.0002,
+      "mdd_proxy": 9.9990000999889e-05,
+      "roi_7d": 0.01,
+      "roi_30d": 0.01,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Om***Pos",
+      "followers": 0.0,
+      "displayed_roi": 0.0299,
+      "mdd_proxy": 0.0,
+      "roi_7d": null,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "GG***888",
+      "followers": 86.0,
+      "displayed_roi": -0.2761,
+      "mdd_proxy": 0.6348850798597584,
+      "roi_7d": -68.75,
+      "roi_30d": -99.59,
+      "roi_90d": -37.24
+    },
+    {
+      "trader_alias": "So***oon",
+      "followers": 0.0,
+      "displayed_roi": -0.629,
+      "mdd_proxy": 0.9004971070002444,
+      "roi_7d": 6.399999999999995,
+      "roi_30d": 24.729999999999997,
+      "roi_90d": -62.9
+    },
+    {
+      "trader_alias": "Ni***s-🐮",
+      "followers": 0.0,
+      "displayed_roi": -0.0009,
+      "mdd_proxy": 0.002296784501697703,
+      "roi_7d": -0.22999999999999998,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "糖***子",
+      "followers": 0.0,
+      "displayed_roi": 0.0113,
+      "mdd_proxy": 0.06941641070645016,
+      "roi_7d": -2.5099999999999985,
+      "roi_30d": 4.830000000000001,
+      "roi_90d": 1.4500000000000013
+    },
+    {
+      "trader_alias": "af***win",
+      "followers": 27.0,
+      "displayed_roi": -0.6811,
+      "mdd_proxy": 0.9278324919308117,
+      "roi_7d": 11.560000000000004,
+      "roi_30d": -20.240000000000002,
+      "roi_90d": -68.11
+    },
+    {
+      "trader_alias": "Ts***aid",
+      "followers": 0.0,
+      "displayed_roi": -0.0254,
+      "mdd_proxy": 0.04346967002568666,
+      "roi_7d": 1.21,
+      "roi_30d": -1.8099999999999998,
+      "roi_90d": -2.54
+    },
+    {
+      "trader_alias": "ma***345",
+      "followers": 26.0,
+      "displayed_roi": -0.1669,
+      "mdd_proxy": 0.7794210195091252,
+      "roi_7d": 20.730000000000004,
+      "roi_30d": 10.299999999999997,
+      "roi_90d": -16.689999999999998
+    },
+    {
+      "trader_alias": "Fi***Jay",
+      "followers": 0.0,
+      "displayed_roi": 0.0238,
+      "mdd_proxy": 0.02863732462041135,
+      "roi_7d": 0.63,
+      "roi_30d": -1.48,
+      "roi_90d": 2.39
+    },
+    {
+      "trader_alias": "Ya***tus",
+      "followers": 10.0,
+      "displayed_roi": -0.046,
+      "mdd_proxy": 0.7489548078837348,
+      "roi_7d": 14.760000000000002,
+      "roi_30d": -1.1900000000000002,
+      "roi_90d": -5.039999999999999
+    },
+    {
+      "trader_alias": "B-***小王子",
+      "followers": 0.0,
+      "displayed_roi": 0.0004,
+      "mdd_proxy": 0.0007000000000000339,
+      "roi_7d": 0.0,
+      "roi_30d": 0.01,
+      "roi_90d": 0.039999999999999994
+    },
+    {
+      "trader_alias": "Mo***God",
+      "followers": 0.0,
+      "displayed_roi": 0.0002,
+      "mdd_proxy": 0.002298391126211621,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.019999999999999997
+    },
+    {
+      "trader_alias": "Me***ey",
+      "followers": 2.0,
+      "displayed_roi": -0.0014,
+      "mdd_proxy": 0.007243500694582342,
+      "roi_7d": -0.07000000000000009,
+      "roi_30d": -0.27000000000000013,
+      "roi_90d": -0.14
+    },
+    {
+      "trader_alias": "bo***zi",
+      "followers": 11.0,
+      "displayed_roi": -0.025,
+      "mdd_proxy": 0.09402736686390524,
+      "roi_7d": 0.0,
+      "roi_30d": -0.8199999999999998,
+      "roi_90d": -2.4999999999999996
+    },
+    {
+      "trader_alias": "Th***ing",
+      "followers": 0.0,
+      "displayed_roi": 0.0061,
+      "mdd_proxy": 0.05013844936708868,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.61
+    },
+    {
+      "trader_alias": "La***Frv",
+      "followers": 0.0,
+      "displayed_roi": 0.0618,
+      "mdd_proxy": 0.5835857890388323,
+      "roi_7d": 19.229999999999997,
+      "roi_30d": 8.139999999999997,
+      "roi_90d": 6.179999999999996
+    },
+    {
+      "trader_alias": "ya***gyi",
+      "followers": 0.0,
+      "displayed_roi": -0.3852,
+      "mdd_proxy": 0.5721671693235674,
+      "roi_7d": 2.4900000000000033,
+      "roi_30d": -1.1399999999999966,
+      "roi_90d": -38.83
+    },
+    {
+      "trader_alias": "De***ing",
+      "followers": 4.0,
+      "displayed_roi": 0.217,
+      "mdd_proxy": 0.9265743576088404,
+      "roi_7d": 0.0,
+      "roi_30d": 17.910000000000004,
+      "roi_90d": 21.710000000000008
+    },
+    {
+      "trader_alias": "Tr***n98",
+      "followers": 0.0,
+      "displayed_roi": -0.0236,
+      "mdd_proxy": 0.05659815311289858,
+      "roi_7d": 1.77,
+      "roi_30d": -1.3699999999999997,
+      "roi_90d": -2.35
+    },
+    {
+      "trader_alias": "Al***Box",
+      "followers": 0.0,
+      "displayed_roi": -0.0892,
+      "mdd_proxy": 0.17834153729647864,
+      "roi_7d": 0.9200000000000014,
+      "roi_30d": 3.9900000000000007,
+      "roi_90d": -11.329999999999998
+    },
+    {
+      "trader_alias": "AG***888",
+      "followers": 0.0,
+      "displayed_roi": -0.0096,
+      "mdd_proxy": 0.07864494853602468,
+      "roi_7d": -0.02999999999999947,
+      "roi_30d": 0.6199999999999997,
+      "roi_90d": -0.9599999999999997
+    },
+    {
+      "trader_alias": "do***ge@",
+      "followers": 0.0,
+      "displayed_roi": -0.0061,
+      "mdd_proxy": 0.0730103471617832,
+      "roi_7d": 2.44,
+      "roi_30d": 5.699999999999999,
+      "roi_90d": -0.6100000000000008
+    },
+    {
+      "trader_alias": "bh***rbo",
+      "followers": 0.0,
+      "displayed_roi": -0.0235,
+      "mdd_proxy": 0.04135053110773908,
+      "roi_7d": -0.7800000000000001,
+      "roi_30d": 0.7000000000000006,
+      "roi_90d": -2.3400000000000003
+    },
+    {
+      "trader_alias": "Le***sil",
+      "followers": 0.0,
+      "displayed_roi": -0.0074,
+      "mdd_proxy": 0.08328643781654473,
+      "roi_7d": 0.2499999999999999,
+      "roi_30d": -0.4,
+      "roi_90d": -0.74
+    },
+    {
+      "trader_alias": "Gr***tus",
+      "followers": 1.0,
+      "displayed_roi": 0.0238,
+      "mdd_proxy": 0.21465500099423343,
+      "roi_7d": 0.0,
+      "roi_30d": 1.1299999999999997,
+      "roi_90d": 2.3899999999999997
+    },
+    {
+      "trader_alias": "Va***ana",
+      "followers": 0.0,
+      "displayed_roi": -0.0052,
+      "mdd_proxy": 0.08996505242136801,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Bu***lia",
+      "followers": 0.0,
+      "displayed_roi": -0.0584,
+      "mdd_proxy": 0.13270000000000004,
+      "roi_7d": 4.82,
+      "roi_30d": -5.84,
+      "roi_90d": -5.84
+    },
+    {
+      "trader_alias": "J***s",
+      "followers": 1.0,
+      "displayed_roi": 0.0029,
+      "mdd_proxy": 0.11717432284948902,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.2800000000000011
+    },
+    {
+      "trader_alias": "fo***.ai",
+      "followers": 0.0,
+      "displayed_roi": -0.0149,
+      "mdd_proxy": 0.1297226875116322,
+      "roi_7d": 0.23000000000000034,
+      "roi_30d": -1.5,
+      "roi_90d": -1.48
+    },
+    {
+      "trader_alias": "Re***Fox",
+      "followers": 328.0,
+      "displayed_roi": -0.0527,
+      "mdd_proxy": 0.9442203639940974,
+      "roi_7d": -0.660000000000005,
+      "roi_30d": 0.30000000000000027,
+      "roi_90d": -5.2700000000000085
+    },
+    {
+      "trader_alias": "Kn***ood",
+      "followers": 0.0,
+      "displayed_roi": -0.0566,
+      "mdd_proxy": 0.1615902837081318,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": -11.64
+    },
+    {
+      "trader_alias": "Wi***ush",
+      "followers": 56.0,
+      "displayed_roi": -0.0337,
+      "mdd_proxy": 0.9597696615918592,
+      "roi_7d": 6.329999999999991,
+      "roi_30d": 1.9899999999999918,
+      "roi_90d": -3.3700000000000063
+    },
+    {
+      "trader_alias": "Wi***RR",
+      "followers": 0.0,
+      "displayed_roi": -0.0482,
+      "mdd_proxy": 0.20092302620735125,
+      "roi_7d": -2.48,
+      "roi_30d": -1.09,
+      "roi_90d": -4.829999999999999
+    },
+    {
+      "trader_alias": "金***蛋",
+      "followers": 1.0,
+      "displayed_roi": -0.0452,
+      "mdd_proxy": 0.23943234423616902,
+      "roi_7d": 0.55,
+      "roi_30d": 0.5599999999999999,
+      "roi_90d": -4.52
+    },
+    {
+      "trader_alias": "Re***shi",
+      "followers": 4.0,
+      "displayed_roi": -0.0281,
+      "mdd_proxy": 0.36180052412517344,
+      "roi_7d": 1.3900000000000003,
+      "roi_30d": -1.8799999999999997,
+      "roi_90d": -2.81
+    },
+    {
+      "trader_alias": "we***769",
+      "followers": 0.0,
+      "displayed_roi": -0.1712,
+      "mdd_proxy": 0.4079134881381508,
+      "roi_7d": 0.33000000000000007,
+      "roi_30d": 0.12000000000000031,
+      "roi_90d": -18.9
+    },
+    {
+      "trader_alias": "be***you",
+      "followers": 0.0,
+      "displayed_roi": -0.1903,
+      "mdd_proxy": 0.23085948958638897,
+      "roi_7d": -0.30999999999999917,
+      "roi_30d": -8.27,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Do***ana",
+      "followers": 2.0,
+      "displayed_roi": -0.1216,
+      "mdd_proxy": 0.29019372877970845,
+      "roi_7d": -3.400000000000003,
+      "roi_30d": -11.070000000000002,
+      "roi_90d": -12.990000000000002
+    },
+    {
+      "trader_alias": "主于***857",
+      "followers": 0.0,
+      "displayed_roi": -0.0524,
+      "mdd_proxy": 0.3080742494843786,
+      "roi_7d": 2.2699999999999996,
+      "roi_30d": -4.6,
+      "roi_90d": -5.6
+    },
+    {
+      "trader_alias": "Pr***ple",
+      "followers": 4.0,
+      "displayed_roi": -0.0054,
+      "mdd_proxy": 0.02415697101163475,
+      "roi_7d": 0.56,
+      "roi_30d": -1.21,
+      "roi_90d": -0.65
+    },
+    {
+      "trader_alias": "So***ird",
+      "followers": 0.0,
+      "displayed_roi": -0.0321,
+      "mdd_proxy": 0.3075722092115534,
+      "roi_7d": 1.580000000000001,
+      "roi_30d": 3.0200000000000005,
+      "roi_90d": -2.879999999999999
+    },
+    {
+      "trader_alias": "Mo***ger",
+      "followers": 0.0,
+      "displayed_roi": -0.0266,
+      "mdd_proxy": 0.35675887010067436,
+      "roi_7d": 2.2600000000000007,
+      "roi_30d": -0.3699999999999981,
+      "roi_90d": -2.9600000000000017
+    },
+    {
+      "trader_alias": "Tr*** KS",
+      "followers": 45.0,
+      "displayed_roi": -0.5663,
+      "mdd_proxy": 0.7135522482085203,
+      "roi_7d": 73.83999999999999,
+      "roi_30d": -172.2,
+      "roi_90d": -353.02
+    },
+    {
+      "trader_alias": "Ap***ror",
+      "followers": 0.0,
+      "displayed_roi": -0.0503,
+      "mdd_proxy": 0.33856713856713855,
+      "roi_7d": -0.10999999999999899,
+      "roi_30d": 1.0099999999999998,
+      "roi_90d": -5.19
+    },
+    {
+      "trader_alias": "Wy*** AI",
+      "followers": 6.0,
+      "displayed_roi": -0.0003,
+      "mdd_proxy": 0.19158460161145935,
+      "roi_7d": 0.0,
+      "roi_30d": 0.58,
+      "roi_90d": -0.030000000000002247
+    },
+    {
+      "trader_alias": "Wo***rBb",
+      "followers": 3.0,
+      "displayed_roi": -0.2204,
+      "mdd_proxy": 0.5402586903799516,
+      "roi_7d": 0.0,
+      "roi_30d": -34.23,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "su***ru",
+      "followers": 22.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": 0.0073185011709600315,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.0
+    },
+    {
+      "trader_alias": "Em***oon",
+      "followers": 22.0,
+      "displayed_roi": 0.0053,
+      "mdd_proxy": 0.02154875528879271,
+      "roi_7d": 0.0,
+      "roi_30d": 1.4,
+      "roi_90d": 0.5299999999999999
+    },
+    {
+      "trader_alias": "Al***a哥",
+      "followers": 0.0,
+      "displayed_roi": -0.0784,
+      "mdd_proxy": 0.3621580975655607,
+      "roi_7d": -0.2500000000000002,
+      "roi_30d": -6.060000000000004,
+      "roi_90d": -7.900000000000001
+    },
+    {
+      "trader_alias": "比***爷",
+      "followers": 0.0,
+      "displayed_roi": -0.0364,
+      "mdd_proxy": 0.09628328943517697,
+      "roi_7d": 1.8999999999999997,
+      "roi_30d": -4.51,
+      "roi_90d": -3.9800000000000004
+    },
+    {
+      "trader_alias": "Aw***ena",
+      "followers": 0.0,
+      "displayed_roi": -0.1042,
+      "mdd_proxy": 0.37444859178825923,
+      "roi_7d": -0.050000000000000044,
+      "roi_30d": -12.13,
+      "roi_90d": -24.46
+    },
+    {
+      "trader_alias": "C8***63",
+      "followers": 19.0,
+      "displayed_roi": -0.3813,
+      "mdd_proxy": 0.4361812333024371,
+      "roi_7d": 0.0,
+      "roi_30d": -8.39,
+      "roi_90d": -74.14
+    },
+    {
+      "trader_alias": "Up***ght",
+      "followers": 187.0,
+      "displayed_roi": -0.1688,
+      "mdd_proxy": 0.5739283399685214,
+      "roi_7d": 4.9600000000000035,
+      "roi_30d": -11.04,
+      "roi_90d": -17.469999999999995
+    },
+    {
+      "trader_alias": "Ov***nsy",
+      "followers": 5.0,
+      "displayed_roi": -0.0676,
+      "mdd_proxy": 0.4555237437061901,
+      "roi_7d": 2.52,
+      "roi_30d": -6.090000000000001,
+      "roi_90d": -7.240000000000002
+    },
+    {
+      "trader_alias": "Fr***ame",
+      "followers": 0.0,
+      "displayed_roi": -0.0004,
+      "mdd_proxy": 0.44982394366197187,
+      "roi_7d": 0.02000000000000335,
+      "roi_30d": -0.05999999999999894,
+      "roi_90d": -0.050000000000000044
+    },
+    {
+      "trader_alias": "Wi***lip",
+      "followers": 2.0,
+      "displayed_roi": 0.0006,
+      "mdd_proxy": 0.4574680818335641,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.06000000000000033
+    },
+    {
+      "trader_alias": "ol***eks",
+      "followers": 8.0,
+      "displayed_roi": -0.3258,
+      "mdd_proxy": 0.4469386506819989,
+      "roi_7d": 7.37,
+      "roi_30d": 5.51,
+      "roi_90d": -57.3
+    },
+    {
+      "trader_alias": "St***ugs",
+      "followers": 0.0,
+      "displayed_roi": -0.2106,
+      "mdd_proxy": 0.5058205689277899,
+      "roi_7d": 18.67,
+      "roi_30d": -28.449999999999996,
+      "roi_90d": -18.39
+    },
+    {
+      "trader_alias": "AX***888",
+      "followers": 10.0,
+      "displayed_roi": -0.0325,
+      "mdd_proxy": 0.46654436612918804,
+      "roi_7d": 0.15000000000000013,
+      "roi_30d": -2.6900000000000035,
+      "roi_90d": -3.2799999999999994
+    },
+    {
+      "trader_alias": "ch***uan",
+      "followers": 0.0,
+      "displayed_roi": -0.1658,
+      "mdd_proxy": 0.30267351274787524,
+      "roi_7d": 7.819999999999999,
+      "roi_30d": -10.290000000000001,
+      "roi_90d": -19.009999999999998
+    },
+    {
+      "trader_alias": "@g***688",
+      "followers": 5.0,
+      "displayed_roi": -0.1817,
+      "mdd_proxy": 0.7240484429065743,
+      "roi_7d": 6.310000000000004,
+      "roi_30d": -14.869999999999994,
+      "roi_90d": -19.179999999999996
+    },
+    {
+      "trader_alias": "Du***ony",
+      "followers": 0.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": null,
+      "roi_7d": null,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Sp***nia",
+      "followers": 1090.0,
+      "displayed_roi": 0.5374,
+      "mdd_proxy": 0.9916464564807331,
+      "roi_7d": 0.830000000000003,
+      "roi_30d": 1.2400000000000022,
+      "roi_90d": 53.74
+    },
+    {
+      "trader_alias": "Ta***lex",
+      "followers": 0.0,
+      "displayed_roi": -0.0716,
+      "mdd_proxy": 0.738430964322892,
+      "roi_7d": 2.1399999999999975,
+      "roi_30d": -0.5299999999999971,
+      "roi_90d": -5.559999999999999
+    },
+    {
+      "trader_alias": "We***tus",
+      "followers": 0.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": 0.0019978024173410375,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.0
+    },
+    {
+      "trader_alias": "V4***lla",
+      "followers": 17.0,
+      "displayed_roi": 0.0001,
+      "mdd_proxy": 0.5148358359077521,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.019999999999997797
+    },
+    {
+      "trader_alias": "Ch***g_C",
+      "followers": 0.0,
+      "displayed_roi": 0.0057,
+      "mdd_proxy": 0.0,
+      "roi_7d": 0.51,
+      "roi_30d": null,
+      "roi_90d": null
+    },
+    {
+      "trader_alias": "Ch***ffe",
+      "followers": 0.0,
+      "displayed_roi": -0.119,
+      "mdd_proxy": 0.7248322147651006,
+      "roi_7d": 3.090000000000004,
+      "roi_30d": -5.489999999999995,
+      "roi_90d": -12.309999999999999
+    },
+    {
+      "trader_alias": "Sw***dio",
+      "followers": 1.0,
+      "displayed_roi": -0.238,
+      "mdd_proxy": 0.3969026109401371,
+      "roi_7d": 9.439999999999998,
+      "roi_30d": -6.420000000000001,
+      "roi_90d": -20.93
+    },
+    {
+      "trader_alias": "ha***ir",
+      "followers": 0.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": 0.0001999600079983783,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.0
+    },
+    {
+      "trader_alias": "J***R",
+      "followers": 0.0,
+      "displayed_roi": 0.0,
+      "mdd_proxy": 0.0007979253939755755,
+      "roi_7d": 0.0,
+      "roi_30d": 0.0,
+      "roi_90d": 0.0
+    },
+    {
+      "trader_alias": "18***767",
+      "followers": 0.0,
+      "displayed_roi": 0.0022,
+      "mdd_proxy": 0.0,
+      "roi_7d": 0.0,
+      "roi_30d": 0.22,
+      "roi_90d": 0.22
+    }
+  ]
+}
