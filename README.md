@@ -11,9 +11,10 @@ risk, and listed-asset verification.
 - `chapter4_copytrading_metrics_anonymised.json` — frozen public input for the notebook
 - `RELEASE_SHA256SUMS.txt` — SHA-256 checksums for the submitted release artefacts
 
-The dashboard is fully client-side and makes no network requests. `index.html`
-contains the interface, calculations, data, and embedded evidence needed to run the
-prototype on a static host.
+The dashboard is fully client-side. `index.html` contains the interface,
+calculations, data, and embedded evidence needed to run the prototype on a static
+host. Its optional walkthrough player connects to Vimeo to stream the public video;
+the research calculations and datasets remain local to the page.
 
 ## Data and privacy
 
