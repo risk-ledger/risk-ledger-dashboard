@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+pseudonym_mapping_PRIVATE.csv
+chapter4_outputs/

@@ -20,8 +20,8 @@ the research calculations and datasets remain local to the page.
 
 - Copy-trading snapshot: 200 lead-trader records captured 2026-07-02.
 - Fee and asset snapshots: captured 2026-07-16.
-- All trader nicknames are partially masked (for example, `Gleason` becomes
-  `Gl***son`) and platform account IDs are excluded.
+- All trader handles are replaced with researcher-assigned pseudonyms (e.g.,
+  `#017 Aster`); platform account IDs are excluded.
 - The Dashboard embeds eight publication-copy interface captures with
   identity-bearing regions irreversibly covered and EXIF metadata removed.
 - Raw screenshots and raw source exports are not included in this anonymous release.
