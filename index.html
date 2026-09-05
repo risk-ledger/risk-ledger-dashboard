@@ -1180,7 +1180,7 @@
             <div class="research-figure-body">
               <div class="figure-thesis-row">
                 <div class="figure-thesis"><span>Platform shows</span><strong>Visible ROI</strong></div>
-                <div class="figure-thesis risk"><span>Ledger reconstructs</span><strong>Maximum drawdown</strong></div>
+                <div class="figure-thesis risk"><span>Ledger reconstructs</span><strong>Raw index decline</strong></div>
               </div>
               <div class="welcome-curve" id="welcome-risk-curve" aria-label="Representative observed lead-trader curve"></div>
               <div class="welcome-risk-readout" id="welcome-risk-readout"></div>
@@ -1219,7 +1219,7 @@
         <div class="module-card" data-view="tab2" tabindex="0" role="button" aria-label="Open Copy-Trading Risk module">
           <div class="no">02 / Visible Performance and Hidden Risk</div>
           <h3>Copy-Trading Risk</h3>
-          <p>A 4-point pre-copy checklist, followed by a simulator built on real history from 200 lead traders: max drawdown, whether the 7/30/90-day returns even agree with each other, and your real take-home after profit share.</p>
+          <p>A 4-point pre-copy checklist, followed by a simulator built on real history from 200 lead traders: raw index decline, whether the 7/30/90-day returns even agree with each other, and your real take-home after profit share.</p>
           <div class="go"><span>Open module</span><span aria-hidden="true">↗</span></div>
         </div>
         <div class="module-card" data-view="tab3" tabindex="0" role="button" aria-label="Open Asset Lookup module">
@@ -1454,7 +1454,7 @@
               <h3>Four answers before you copy</h3>
               <div class="sim-empty-grid">
                 <div><span>01</span><strong>Window return</strong><small>What the selected period implies</small></div>
-                <div><span>02</span><strong>Maximum drawdown</strong><small>How deep the historical loss became</small></div>
+                <div><span>02</span><strong>Raw index decline</strong><small>Peak-to-trough of platform pnlRatio</small></div>
                 <div><span>03</span><strong>Risk signals</strong><small>Leverage, recency and follower outcomes</small></div>
                 <div><span>04</span><strong>Ending capital</strong><small>After the editable profit share</small></div>
               </div>
@@ -2171,7 +2171,7 @@ function initWelcomeResearch(){
     const visibleROI = riskTrader.roi90!=null ? riskTrader.roi90 : riskTrader.roiTotal;
     document.getElementById('welcome-risk-readout').innerHTML = `
       <div><span>Visible 90D ROI</span><strong class="num">${visibleROI==null?'N/A':(visibleROI>=0?'+':'')+(visibleROI*100).toFixed(1)+'%'}</strong></div>
-      <div class="risk"><span>Maximum drawdown</span><strong class="num">${(riskTrader.maxDrawdown*100).toFixed(1)}%</strong></div>`;
+      <div class="risk"><span>Raw index decline</span><strong class="num">${(riskTrader.maxDrawdown*100).toFixed(1)}%</strong></div>`;
     document.getElementById('welcome-risk-caption').textContent =
       `Observed high-drawdown lead-trader record · ${riskTrader.leadDays} lead days · snapshot 02 Jul 2026`;
   }
